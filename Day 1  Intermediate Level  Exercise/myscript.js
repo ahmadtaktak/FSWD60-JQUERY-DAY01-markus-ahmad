@@ -7,17 +7,11 @@ $("form").submit(function(e) {
 
 });
 //$("#myform").remove();
-var newItem=$('<div>3</div>');
 
-$("article").append(newItem);
-var newItem=$('<div>3</div>');
-$("article").append(newItem);
-var newItem=$('<div>3</div>');
-$("article").append(newItem);
-var newItem=$('<div>3</div>');
-$("article").append(newItem);
-var newItem=$('<div>3</div>');
-$("article").append(newItem);
+for(var i=1;i<=5;i++){
+	var newItem=$('<div>3</div>');
+	$("article").append(newItem);	
+}
 
 $("#msg").val("Search for...");
 
