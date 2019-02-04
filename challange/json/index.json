@@ -8,27 +8,27 @@ grocery_data=`[
 		"img":"img/lemon.jpg",
 		"price":"11",
 		"items":"4"
-	}
+	},
 	{"name":"orange juice", 
 		"img":"img/orange juice.jpg",
 		"price":"12",
 		"items":"3"
-	}
+	},
 	{"name":"french cheese", 
 		"img":"img/french cheese.jpg",
 		"price":"13",
 		"items":"2"
-	}
+	},
 	{"name":"bread", 
 		"img":"img/french cheese.jpg",
 		"price":"14",
 		"items":"1"
-	}
+	},
 	{"name":"salad", 
 		"img":"img/salad.jpg",
 		"price":"15",
 		"items":"55"
-	}
+	},
 	{"name":"meat", 
 		"img":"img/meat.jpg",
 		"price":"100",
