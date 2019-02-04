@@ -1,0 +1,37 @@
+grocery_data=`[
+	{	"name":"milk", 
+		"img":"",
+		"price":"10",
+		"items":"5"
+
+	},{"name":"lemon", 
+		"img":"",
+		"price":"11",
+		"items":"4"
+	}
+	{"name":"orange juice", 
+		"img":"",
+		"price":"12",
+		"items":"3"
+	}
+	{"name":"french cheese", 
+		"img":"",
+		"price":"13",
+		"items":"2"
+	}
+	{"name":"bread", 
+		"img":"",
+		"price":"14",
+		"items":"1"
+	}
+	{"name":"salad", 
+		"img":"",
+		"price":"15",
+		"items":"55"
+	}
+	{"name":"meat", 
+		"img":"",
+		"price":"100",
+		"items":"20"
+	}
+]`
